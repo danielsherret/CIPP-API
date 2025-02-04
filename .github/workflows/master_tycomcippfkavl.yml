@@ -27,4 +27,4 @@ jobs:
           app-name: 'tycomcippfkavl'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C1E443BA0244210B1DA83FA5D99E7B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A944AA3A756C4B32A895CE9D4E3A2709 }}
